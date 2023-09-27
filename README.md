@@ -1,5 +1,4 @@
 # MovieMagnet!
-# Movie Explorer App
 
 Welcome to MovieMagent, your ultimate destination for discovering, exploring, and staying up-to-date with the world of movies!
 
