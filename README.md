@@ -27,7 +27,7 @@ MovieMagent is a feature-rich movie app that provides you with a seamless experi
 
 - **Cross-Platform Accessibility:** Access Movie Explorer on web browsers, Android, iOS, and more.
 
-## Stay Tuned!
+## Stay Tuned
 
 We're committed to enhancing your movie-watching experience. Stay tuned for exciting updates and new features. Get ready to explore the magic of cinema with Movie Explorer!
 
